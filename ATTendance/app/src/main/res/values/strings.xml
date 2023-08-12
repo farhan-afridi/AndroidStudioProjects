@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ATTendance</string>
+    <string name="go"><![CDATA[GO---->]]></string>
+    <string name="d_s_lab">D. S. Lab</string>
+    <string name="go2"><![CDATA[GO---->]]></string>
+    <string name="d_s_d_lab">D.S.D. Lab</string>
+    <string name="go3"><![CDATA[GO---->]]></string>
+    <string name="electrical_lab">Electrical Lab</string>
+</resources>

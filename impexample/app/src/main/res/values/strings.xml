@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">impexample</string>
+    <string name="button">Button</string>
+    <string name="enter_url">Enter URL</string>
+</resources>
